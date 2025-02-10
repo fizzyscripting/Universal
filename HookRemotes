@@ -1,0 +1,2 @@
+_G.Remote =
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fizzyscripting/Universal/refs/heads/main/HookRemotesOBF"))()
